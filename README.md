@@ -14,7 +14,7 @@
 5. [Insert the "email_spam_dataset.csv"](Instruction_Images/5.png) from the unzipped file.
 6. Do the same (step 5) for the "unseen_spam_dataset.csv"
 7. Run all cells.
-8. You can even try it out yourself at the end of the notebook.
+8. Try it out yourself at the end of the notebook with your own email message.
 
 ### Libraries used:
 - NumPy
