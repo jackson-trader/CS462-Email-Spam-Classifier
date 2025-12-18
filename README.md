@@ -12,7 +12,7 @@
 3. On left sidebar of Colab, [click on "Files"](Instruction_Images/3.png).
 4. Click the insert file icon, ["Upload to session storage"](Instruction_Images/4.png).
 5. [Insert the "email_spam_dataset.csv"](Instruction_Images/5.png) from the unzipped file.
-6. Do the same for the "unseen_spam_dataset.csv"
+6. Do the same (step 5) for the "unseen_spam_dataset.csv"
 7. Run all cells.
 8. You can even try it out yourself at the end of the notebook.
 
