@@ -3,6 +3,7 @@
 ### Group 5 - **Jackson Trader, Diego Lara, Mark Pack, Alex Bryant**
 
 ### [Spam Email Classification Dataset from Kaggle](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification)
+### [Unseen Dataset from Kaggle](https://www.kaggle.com/datasets/devildyno/email-spam-or-not-classification)
 
 
 ### How to run:
@@ -11,8 +12,9 @@
 3. On left sidebar of Colab, [click on "Files"](Instruction_Images/3.png).
 4. Click the insert file icon, ["Upload to session storage"](Instruction_Images/4.png).
 5. [Insert the "email_spam_dataset.csv"](Instruction_Images/5.png) from the unzipped file.
-6. Run all cells.
-7. You can even try it out yourself at the end of the notebook.
+6. Do the same for the "unseen_spam_dataset.csv"
+7. Run all cells.
+8. You can even try it out yourself at the end of the notebook.
 
 ### Libraries used:
 - NumPy
