@@ -1,6 +1,6 @@
 # **CS462 Email Spam Classifier | Spam Likely**
 
-### Group 5 - **Jackson Trader, Diego Lara, Mark Pack, Alex Bryant**
+### Group 5 - **Jackson Trader, Diego Lara, Alex Bryant, Mark Pack**
 
 ### [Spam Email Classification Dataset from Kaggle](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification)
 ### [Unseen Dataset from Kaggle](https://www.kaggle.com/datasets/devildyno/email-spam-or-not-classification)
