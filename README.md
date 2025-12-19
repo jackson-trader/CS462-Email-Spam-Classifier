@@ -7,7 +7,7 @@
 
 ### How to run:
 1. Open the Jupyter Notebook, preferably in [Google Colab](https://colab.research.google.com/) for preinstalled libraries. 
-   (Or install libraries manually, list of libraries is below)
+   (Or install libraries manually)
 2. Run all cells.
 3. Try it out yourself at the end of the notebook with your own email message.
 
