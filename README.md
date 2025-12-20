@@ -2,14 +2,16 @@
 
 ### Group 5 - **Jackson Trader, Alex Bryant, Diego Lara, Mark Pack**
 
-#### A supervised machine learning project that classifies emails as **spam** or **ham** using text preprocessing, vectorization, model training, and evaluation.
+A supervised machine learning project that classifies emails as **spam** or **ham** using text preprocessing, vectorization, model training, and evaluation.
 
-### [Spam Email Classification Dataset from Kaggle](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification)
-### [Unseen Dataset from Kaggle](https://www.kaggle.com/datasets/devildyno/email-spam-or-not-classification)
+**Datasets:**
+- [Spam Email Classification Dataset from Kaggle](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification)
+- [Unseen Dataset from Kaggle](https://www.kaggle.com/datasets/devildyno/email-spam-or-not-classification)
+
+---
 
 ### How to run:
-1. Open the Jupyter Notebook, preferably in [Google Colab](https://colab.research.google.com/) for preinstalled libraries. 
-   (Or install libraries manually)
+1. Open the Jupyter Notebook, preferably in [Google Colab](https://colab.research.google.com/) for preinstalled libraries. (Or install libraries manually)
 2. Run all cells.
 3. Try it out yourself at the end of the notebook with your own email message.
 
